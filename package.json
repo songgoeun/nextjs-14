@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songgoeun/nextjs-14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songgoeun/nextjs-14/issues"
+  },
+  "homepage": "https://github.com/songgoeun/nextjs-14#readme",
+  "dependencies": {
+    "next": "^14.2.6",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "22.5.0",
+    "@types/react": "18.3.4",
+    "typescript": "5.5.4"
+  }
+}
