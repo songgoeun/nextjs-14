@@ -1,5 +1,12 @@
+import Navigation from "../components/navigation";
+
 function main() {
-  return <h1>Root</h1>;
+  return (
+    <div>
+      <Navigation />
+      <h1>Hello</h1>
+    </div>
+  );
 }
 
 export default main;
